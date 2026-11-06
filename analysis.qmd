@@ -1,6 +1,6 @@
 ---
 title: "Analyzing Americans' Time Use"
-author: "alexajt"
+author: "Alexa Titherington"
 execute:
   echo: false
 ---
